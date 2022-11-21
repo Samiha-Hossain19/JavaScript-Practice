@@ -1,5 +1,3 @@
-# JavaScript-Practice
-
 # JavaScript Templates
 
 ## Contents
